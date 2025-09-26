@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Misoten2024_5_3_2",
+			"Path": "..\\Source\\Misoten2024_5_3_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Misoten2024_5_3_2Editor",
+			"Path": "..\\Source\\Misoten2024_5_3_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
